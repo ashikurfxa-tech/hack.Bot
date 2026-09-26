@@ -1,0 +1,6 @@
+
+{
+  "host": "https://hackbot-production.up.railway.app/",
+  "socket": "wss://hackbot-production.up.railway.app/",
+  "webView": "https://www.youtube.com/"
+}
